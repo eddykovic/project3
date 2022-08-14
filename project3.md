@@ -1,15 +1,15 @@
 ## MERN Stack Implementation
 
 **Project was initially completed and all documentations done. Mistakenly deleted the file containing the completed work. Started all over, presenting an quick summary of the work again.**
-### Backend installation
+### Backend installation </br>
 
-* Node JS installed ![Node JS](images/Nodejs%20Installed.PNG) 
+* Node JS installed ![Node JS](images/Nodejs%20Installed.PNG) </br>
   
   
-* NPM init done ![NPM init](images/npm%20init%20done.PNG)
+* NPM init done ![NPM init](images/npm%20init%20done.PNG) </br>
 
 
-* Install Express JS ![Express](images/NPM%20install%20express.PNG)
+* Install Express JS ![Express](images/NPM%20install%20express.PNG) </br>
   
 
 * Server working on Port 5000 ![server port 5000](images/Server%20running%20on%20Port%205000.PNG)
